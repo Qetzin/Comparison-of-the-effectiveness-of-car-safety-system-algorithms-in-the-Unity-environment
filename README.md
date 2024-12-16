@@ -2,6 +2,9 @@
 
 The thesis focuses on the implementation and comparison of the effectiveness of algorithms used in car safety systems simulated in the Unity environment. The comparison will include a deterministic algorithm written using C# scripts and a machine learning model developed through the ML-Agents library. Simulation scenarios will also be designed to test different situations and conditions commonly encountered in real-world safety system tests. The results of the comparative analysis aim to distinguish the features of the presented solutions and determine which one is better suited for implementing an actual safety system.
 
+## Link to the project
+Due to the size of the project, it is stored on a disk instead of a repository. Link to the [project](https://drive.google.com/file/d/1UMA1cZN2QRbR4B8K-ZuptcVCPIkUmNvF/view?usp=sharing)
+
 ## Test scenarios
 Based on the [Euro NCAP](https://www.euroncap.com/en/for-engineers/protocols/safety-assist/) documentation. 
 
@@ -89,7 +92,6 @@ Based on the conducted studies in specific simulated scenarios, the deterministi
 
 The optimal solution would involve combining both approaches to create a reliable algorithm capable of processing large amounts of data simultaneously. However, if a choice must be made between these two types of algorithms, the deterministic solution offers attributes that positively impact the performance of safety systems.
 
-## Link to project
-Due to the size of the project, it is stored on a disk instead of a repository. Link to the [project](https://drive.google.com/file/d/1UMA1cZN2QRbR4B8K-ZuptcVCPIkUmNvF/view?usp=sharing)
+
 
 
