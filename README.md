@@ -85,8 +85,8 @@ Due to the developed test scenarios, the car sensors will be positioned at the f
 ### Deterministic algorithm score
 ![](https://github.com/Qetzin/Comparison-of-the-effectiveness-of-car-safety-system-algorithms-in-the-Unity-environment/blob/main/Images/ScoreD.png)
 
-### Machine learning algorith score
-![](https://github.com/Qetzin/Comparison-of-the-effectiveness-of-car-safety-system-algorithms-in-the-Unity-environment/blob/main/Images/ScoreD.png)
+### Machine learning algorithm score
+![](https://github.com/Qetzin/Comparison-of-the-effectiveness-of-car-safety-system-algorithms-in-the-Unity-environment/blob/main/Images/ScoreAI.png)
 
 Based on the conducted studies in specific simulated scenarios, the deterministic algorithm proved to be more effective at avoiding collisions than the machine learning algorithm, despite limitations such as lower sensor quality and limited data resources. Additionally, the deterministic solution is characterized by higher predictability and easier error traceability.
 
