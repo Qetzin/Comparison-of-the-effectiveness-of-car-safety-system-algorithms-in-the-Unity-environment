@@ -48,13 +48,17 @@ is travelling along a straight path within its defined lane and strikes another 
 travelling in the opposite direction which has intentionally moved into the lane of 
 the original vehicle to attempt an overtake. The frontal structure of the vehicle 
 strikes the frontal structure of the other.
+
 ![](https://github.com/Qetzin/Comparison-of-the-effectiveness-of-car-safety-system-algorithms-in-the-Unity-environment/blob/main/Images/CCFhol.png)
+
 ![](https://github.com/Qetzin/Comparison-of-the-effectiveness-of-car-safety-system-algorithms-in-the-Unity-environment/blob/main/Images/CCFHOLU.png)
 
 ## Testing process
 The comparison of algorithm effectiveness was conducted using special enviroments designed to control two vehicles simultaneously. The cars execute the same commands based on user input data. In the event of danger, the collision detection algorithm transfers control of the car to the control algorithms. The purpose of the algorithms is to avoid collisions and bring the vehicle to a stop.  The tests will cover speeds ranging from 10 to 80 kilometers per hour.
 ![](https://github.com/Qetzin/Comparison-of-the-effectiveness-of-car-safety-system-algorithms-in-the-Unity-environment/blob/main/Images/SG.gif)
+
 ![]([https://github.com/Qetzin/Comparison-of-the-effectiveness-of-car-safety-system-algorithms-in-the-Unity-environment/blob/main/Images/SG.gif](https://github.com/Qetzin/Comparison-of-the-effectiveness-of-car-safety-system-algorithms-in-the-Unity-environment/blob/main/Images/FTAPG.gif))
+
 ## Sensors
 The sensors were implemented using RayCasts and 3D Box Colliders.
 
